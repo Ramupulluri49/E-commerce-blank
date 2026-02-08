@@ -22,7 +22,10 @@ How satisfied are customers?
 
 What are the geographical sales trends?
 
-### 2. Key KPIs Included
+### 2. Project data 
+<a href = "https://github.com/Ramupulluri49/E-commerce-blank/blob/main/ecommerce-%20data%20set.xlsx"> Data set </a>
+
+### 3. Key KPIs Included
 
 Total Sales
 
@@ -38,7 +41,7 @@ Top Performing Products
 
 Regional Performance Overview
 
-### 3. Tools & Techniques Used
+### 4. Tools & Techniques Used
 
 Pivot Tables for dynamic calculations
 
@@ -48,8 +51,6 @@ Pivot Grouping for quantity distribution
 
 Slicers for interactive filtering
 
-Picture Links for grid visualization
-
 Conditional Formatting
 
 Dashboard Layout Design
@@ -58,7 +59,7 @@ Map Chart for geographical insights
 
 Chart customization & theme formatting
 
-### 4. Visualizations Implemented
+### 5. Visualizations Implemented
 
 13-Week Sales Trend Line Chart
 
@@ -74,7 +75,7 @@ Customer Satisfaction Chart
 
 Geographic Map Chart
 
-### 5. Key Learnings
+### 6. Key Learnings
 
 Proper data structure improves dashboard flexibility.
 
